@@ -1,0 +1,19 @@
+# Target labels
+ Extra
+ opencv_freetype
+ Module
+# Source files and their labels
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/freetype/include/opencv2/freetype.hpp
+ Extra
+ opencv_freetype
+ Module
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/freetype/src/freetype.cpp
+ Extra
+ opencv_freetype
+ Module
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/freetype/src/precomp.hpp
+ Extra
+ opencv_freetype
+ Module
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib_build/cvconfig.h
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib_build/opencv2/opencv_modules.hpp

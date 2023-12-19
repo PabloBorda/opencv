@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_wechat_qrcode
+ AccuracyTest
+# Source files and their labels
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/wechat_qrcode/test/test_main.cpp
+ Extra
+ opencv_wechat_qrcode
+ AccuracyTest
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/wechat_qrcode/test/test_qrcode.cpp
+ Extra
+ opencv_wechat_qrcode
+ AccuracyTest
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/wechat_qrcode/test/test_precomp.hpp
+ Extra
+ opencv_wechat_qrcode
+ AccuracyTest

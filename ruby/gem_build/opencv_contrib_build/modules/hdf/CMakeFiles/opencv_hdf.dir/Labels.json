@@ -1,0 +1,57 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/hdf/include/opencv2/hdf.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_hdf",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/hdf/include/opencv2/hdf/hdf5.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_hdf",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/hdf/src/hdf5.cpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_hdf",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/hdf/src/precomp.hpp",
+			"labels" : 
+			[
+				"Extra",
+				"opencv_hdf",
+				"Module"
+			]
+		},
+		{
+			"file" : "/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib_build/cvconfig.h"
+		},
+		{
+			"file" : "/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib_build/opencv2/opencv_modules.hpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Extra",
+			"opencv_hdf",
+			"Module"
+		],
+		"name" : "opencv_hdf"
+	}
+}

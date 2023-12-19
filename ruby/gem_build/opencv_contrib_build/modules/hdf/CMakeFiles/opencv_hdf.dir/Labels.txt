@@ -1,0 +1,23 @@
+# Target labels
+ Extra
+ opencv_hdf
+ Module
+# Source files and their labels
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/hdf/include/opencv2/hdf.hpp
+ Extra
+ opencv_hdf
+ Module
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/hdf/include/opencv2/hdf/hdf5.hpp
+ Extra
+ opencv_hdf
+ Module
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/hdf/src/hdf5.cpp
+ Extra
+ opencv_hdf
+ Module
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib/modules/hdf/src/precomp.hpp
+ Extra
+ opencv_hdf
+ Module
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib_build/cvconfig.h
+/Users/goldenthinker/Projects/opencv/ruby/gem_build/opencv_contrib_build/opencv2/opencv_modules.hpp
